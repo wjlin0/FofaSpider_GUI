@@ -1,4 +1,4 @@
-#FofaSpider
+# FofaSpider
 FofaSpider 是基于Python3.7,pyside6,pyDracula,selenium无头浏览器 开发而成的爬虫GUI脚本。针对 fofa 提取关键信息
 ## 免责声明
 由于传播、利用此工具所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责。本工具仅限学习爬虫开发使用
@@ -18,3 +18,5 @@ git clone -m https://github.com/wjlin0/FofaSpider_GUI.git
 **5.支持导出最后一次查询历史记录**
 
 **6.更多功能欢迎投稿 wjlgeren@163.com**
+## 注意
+没有后门，有后门你提刀 * 我 
