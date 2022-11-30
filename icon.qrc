@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/cil-lightbulb.png</file>
+    <file>icons/cil-moon.png</file>
+    <file>image/icon.ico</file>
+    <file>image/PyDracula.jpg</file>
+    <file>image/PyDracula.png</file>
+    <file>image/PyDracula_horizontal.png</file>
+    <file>image/PyDracula_vertical.png</file>
+    <file>icons/cil-arrow-bottom.png</file>
+    <file>icons/cil-check-alt.png</file>
+    <file>icons/cil-gamepad.png</file>
+    <file>icons/cil-home.png</file>
+    <file>icons/cil-loop-circular.png</file>
+    <file>icons/cil-user.png</file>
+    <file>icons/cil-x.png</file>
+    <file>icons/icon_close.png</file>
+    <file>icons/icon_maximize.png</file>
+    <file>icons/icon_menu.png</file>
+    <file>icons/icon_minimize.png</file>
+    <file>icons/icon_restore.png</file>
+    <file>icons/icon_settings.png</file>
+  </qresource>
+</RCC>
